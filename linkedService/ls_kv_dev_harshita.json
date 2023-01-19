@@ -1,0 +1,11 @@
+{
+	"name": "ls_kv_dev_harshita",
+	"properties": {
+		"description": "LS for Azure key vault",
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://KV-DEV-WAFASTUDIES.vault.azure.net/"
+		}
+	}
+}
